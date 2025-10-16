@@ -37,4 +37,4 @@ This project focuses on responsive design, Flexbox/Grid layout, and clean UI des
 
 1. Clone this repository  
    `bash
-   git clone https://github.com/yourusername/four-card-feature-section.git
+   git clone https://github.com/SaharQ1986/Frontend-Mentor---Four-Card-Feature-Section.git
